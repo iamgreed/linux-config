@@ -35,7 +35,7 @@
       os_icon                 # os identifier
       dir                     # current directory
       vcs                     # git status
-      # prompt_char           # prompt symbol
+      # prompt_char             # prompt symbol
   )
 
   # The list of segments shown on the right. Fill it with less important segments.
@@ -68,10 +68,10 @@
       nordvpn                 # nordvpn connection status, linux only (https://nordvpn.com/)
       ranger                  # ranger shell (https://github.com/ranger/ranger)
       vi_mode                 # vi mode (you don't need this if you've enabled prompt_char)
-      # vpn_ip                # virtual private network indicator
-      # ram                   # free RAM
+      vpn_ip                # virtual private network indicator
+      ram                   # free RAM
       # load                  # CPU load
-      # time                  # current time
+      time                  # current time
       # public_ip             # public IP address
       # proxy                 # system-wide http/https/ftp proxy
       # battery               # internal battery
